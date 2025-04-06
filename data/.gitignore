@@ -3,3 +3,10 @@
 /pipeline.pkl
 /processed_train_data.csv
 /processed_test_data.csv
+/world_happiness_report.csv
+/processed_X_train_data.csv
+/processed_y_train_data.csv
+/processed_X_val_data.csv
+/processed_y_val_data.csv
+/processed_X_test_data.csv
+/processed_y_test_data.csv
