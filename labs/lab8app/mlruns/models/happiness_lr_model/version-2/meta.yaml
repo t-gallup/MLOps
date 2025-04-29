@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745905063722
+current_stage: None
+description: ''
+last_updated_timestamp: 1745905063722
+name: happiness_lr_model
+run_id: 00088e2a77f34ed9804971e0fe299c29
+run_link: ''
+source: mlflow-artifacts:/590249699523445186/00088e2a77f34ed9804971e0fe299c29/artifacts/happiness_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/590249699523445186/00088e2a77f34ed9804971e0fe299c29/artifacts/happiness_model
+user_id: null
+version: 2

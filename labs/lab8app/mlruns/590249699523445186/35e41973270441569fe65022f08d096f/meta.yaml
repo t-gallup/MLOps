@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/590249699523445186/35e41973270441569fe65022f08d096f/artifacts
+end_time: 1745904997837
+entry_point_name: ''
+experiment_id: '590249699523445186'
+lifecycle_stage: active
+run_id: 35e41973270441569fe65022f08d096f
+run_name: brawny-shark-127
+run_uuid: 35e41973270441569fe65022f08d096f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745904987547
+status: 3
+tags: []
+user_id: tylergallup
